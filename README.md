@@ -1,2 +1,4 @@
 # EssentialsSwiftUIDemo
-Creating views and combines
+- Creating views and combines
+- Building List and Navigation
+- Handling user inpu
